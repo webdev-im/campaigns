@@ -1,0 +1,13 @@
+{
+  "header": {
+    "brandName": "campaigns",
+    "home": "Home",
+    "post": "Post Campaign"
+  },
+  "homeScreen": {
+    "homeTopTitle": "Existing campaigns"
+  },
+  "footer": {
+    "blogName": "Campaigns"
+  }
+}
